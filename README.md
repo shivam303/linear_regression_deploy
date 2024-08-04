@@ -14,3 +14,9 @@ To access your flask application open new tab in and paste the url:
 ```
 https://{your_url}.pwskills.app:5000/
 ```
+to access deployed application in AWS use following url:
+
+```
+http://linearregdeployment-env.eba-mk4a3z62.us-east-1.elasticbeanstalk.com/predictdata
+
+```
